@@ -1,0 +1,12 @@
+{
+	"name": "Large Iron Wall",
+	"description": "A wall made of iron. Stronger than Copper walls weaker than Titanium walls.",
+	"type": "Wall",
+	"health": 1520,
+	"size": 2,
+	"requirements": [
+		{ "item": "iron ingot", "amount": 12 }
+	],
+	"category": "defense",
+	"research": "copper-wall"
+}
