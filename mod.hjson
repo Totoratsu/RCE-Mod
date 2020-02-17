@@ -1,0 +1,6 @@
+name: "RLdustry"
+displayName: "[orange]Example[gold] Mod" //what displays in the mod selection menu
+author: "Totoratsu"
+description: "A simple mod. Demonstrates how to make[accent] new ores[] and[orange] machines.[]"
+version: "0.2"
+minGameVersion: "103"
