@@ -1,6 +1,6 @@
 type: material
-name: Steel
+name: iron
 description: A rare resource.
-hardness: 2
-cost: 2
-color: ffffff
+hardness: 1
+cost: 1
+color: F79F81

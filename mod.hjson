@@ -1,6 +1,6 @@
-name: "RLdustry"
+name: "RCE-Mod"
 displayName: "[orange]Example[gold] Mod" //what displays in the mod selection menu
-author: "Totoratsu"
+author: "Totoratsu & CitedP21"
 description: "A simple mod. Demonstrates how to make[accent] new ores[] and[orange] machines.[]"
 version: "0.2"
 minGameVersion: "103"

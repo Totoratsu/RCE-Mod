@@ -1,0 +1,27 @@
+type: GenericSmelter
+name: Steel Forge
+description: Combines iron and coal to produce steel.
+size: 2
+hasPower: true
+hasItems: true
+craftTime: 25
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.7
+  items: {
+    items: [
+      iron/2
+      coal/3
+    ]
+  }
+}
+requirements: [
+  graphite/30
+  copper/55
+  lead/25
+]
+category: crafting
+//research: silver-crucible
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: steel/1
